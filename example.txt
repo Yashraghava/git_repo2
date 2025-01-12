@@ -1,5 +1,0 @@
-This is an example of text.
-
-This is a new line.
-
-Another line has been added.
